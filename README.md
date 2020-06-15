@@ -1,5 +1,5 @@
 View the app here.
-https://react-mytodoapp.netlify.app/
+https://react-mytodoapp.netlify.app
 
 
 
